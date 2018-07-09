@@ -10,6 +10,8 @@ gem 'mysql2', '>= 0.4.4', '< 0.6.0'
 
 # Custom
 gem 'figaro', '~> 1.1', '>= 1.1.1'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'jquery-rails'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
